@@ -6,7 +6,7 @@ Is it accidental or inevitable that you encouter this page?
 
 + Try to feel then understand the world.
 + Doing all things about **blockchain** since 2018 summer, former president of **[ZJUBCA](https://github.com/Blockchain-zju)**(Blockchain Association of Zhejiang University), have led the association accross the bearish market, the [main repository](https://github.com/Blockchain-zju/blockchainer-roadmap) now has 400+ stars.
-+ Participated deeply in the research and development of [BaaS](https://www.hyperchain.cn/en/products/bass) and cross-chain platform [BitXHub](https://github.com/meshplus) at [Hyperchain](https://www.hyperchain.cn/en/), Hyperchain is a unicorn company in web3, now [valued at $1B](https://mp.weixin.qq.com/s/OWUIThCUnvum2ShFdWQjnA).
++ Participated deeply in the research and development of [BaaS](https://www.hyperchain.cn/en/products/bass) and cross-chain platform [BitXHub](https://github.com/meshplus/bitxhub) at [Hyperchain](https://www.hyperchain.cn/en/), Hyperchain is a unicorn company in web3, now [valued at $1B](https://mp.weixin.qq.com/s/OWUIThCUnvum2ShFdWQjnA).
 + Buidling 2 NFT marketplaces rn (one Orderbook model one AMM model).
 + **Blockchain** is one of most important technology/economics for digital society.
 + The sequence of the digital wave will be digital finance, digital economy, and finally digital society.
