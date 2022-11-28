@@ -7,6 +7,7 @@ Is it accidental or inevitable that you encouter this page?
 + Try to feel then understand the world.
 + Doing all things about **blockchain** since 2018 summer, Former president of **[ZJUBCA](https://github.com/Blockchain-zju)**(Blockchain Association of Zhejiang University).
 + Participated deeply in the research and development of [BaaS](https://filoop.com) and cross-chain platform [BitXHub](https://github.com/meshplus) at [Hyperchain](https://www.hyperchain.cn).
++ Buidling 2 NFT Marketplaces rn (one orderbook one amm).
 + **Blockchain** is one of most important technology/economics for digital society.
 + The sequence of the digital wave will be digital finance, digital economy, and finally digital society.
 + People who are crazy enough to think that they can change the world are the ones who do.
