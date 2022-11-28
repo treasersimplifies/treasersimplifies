@@ -5,9 +5,9 @@ Is it accidental or inevitable that you encouter this page?
 ## About Me
 
 + Try to feel then understand the world.
-+ Doing all things about **blockchain** since 2018 summer, Former president of **[ZJUBCA](https://github.com/Blockchain-zju)**(Blockchain Association of Zhejiang University).
-+ Participated deeply in the research and development of [BaaS](https://www.hyperchain.cn/en/products/bass) and cross-chain platform [BitXHub](https://github.com/meshplus) at [Hyperchain](https://www.hyperchain.cn/en/).
-+ Buidling 2 NFT Marketplaces rn (one orderbook one amm).
++ Doing all things about **blockchain** since 2018 summer, former president of **[ZJUBCA](https://github.com/Blockchain-zju)**(Blockchain Association of Zhejiang University), have led the association accross the bearish market, the [main repository](https://github.com/Blockchain-zju/blockchainer-roadmap) now has 400+ stars.
++ Participated deeply in the research and development of [BaaS](https://www.hyperchain.cn/en/products/bass) and cross-chain platform [BitXHub](https://github.com/meshplus) at [Hyperchain](https://www.hyperchain.cn/en/), Hyperchain is a unicorn company in web3, now [valued at $1B](https://mp.weixin.qq.com/s/OWUIThCUnvum2ShFdWQjnA).
++ Buidling 2 NFT marketplaces rn (one Orderbook model one AMM model).
 + **Blockchain** is one of most important technology/economics for digital society.
 + The sequence of the digital wave will be digital finance, digital economy, and finally digital society.
 + People who are crazy enough to think that they can change the world are the ones who do.
@@ -21,6 +21,6 @@ Is it accidental or inevitable that you encouter this page?
   + New Digital Technology
 + Technology alone is not enough, it's technology married with liberal arts married with humanities that makes our heart sing.
 + The best way to convey personal opinions to society is no longer pure literature, but its compound form(e.g. **motion picture**...)
-+ Hope I can make my own movie someday in the future...
++ Hope I can make my own movie(as screenwriter or director) someday in the future...
 
 ![MyGitHubREADME](https://github-readme-stats.vercel.app/api?username=treasersimplifies&show_icons=true&theme=synthwave)
